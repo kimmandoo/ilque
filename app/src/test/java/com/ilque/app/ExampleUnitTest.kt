@@ -1,4 +1,4 @@
-package com.ilque.ui
+package com.ilque.app
 
 import org.junit.Test
 

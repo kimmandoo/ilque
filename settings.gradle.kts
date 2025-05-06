@@ -21,6 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "ilque"
 include(":app")
-include(":feature")
+include(":presentation")
 include(":domain")
 include(":data")

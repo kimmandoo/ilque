@@ -1,4 +1,4 @@
-package com.ilque.feature.ui.theme
+package com.ilque.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
