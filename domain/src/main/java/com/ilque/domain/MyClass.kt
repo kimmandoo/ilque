@@ -1,4 +1,3 @@
 package com.ilque.domain
 
-class MyClass {
-}
+class MyClass
